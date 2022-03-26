@@ -1,6 +1,7 @@
 [xycar를 이용한 자율주행 프로젝트]  
 주제: 자율주행 버스 구현  
 기간: 2019.09 - 2019.12  
+장소: 국민대학교
 사용한 언어/툴: Python/OpenCV  
 구현한 기능:  
 1) 카메라 센서와 자외선 센서를 이용한 실습실의 차선 인식과, 그에 따른 모형자동차의 방향 속도 조절  
@@ -14,6 +15,7 @@
 [Project implementing autonomous driving using xycar]  
 Topic: implementation of self-driving bus  <br>
 Duration: 2019.09 - 2019.12  <br>
+Place: Kookmin University <br>
 Used Language/Library: Python/OpenCV  <br>
 Implemented Functions:  <br>
 1) Lane recognition in the lab using camera sensors and ultraviolet sensors, And adjustment of the direction&speed of xycar  <br>
