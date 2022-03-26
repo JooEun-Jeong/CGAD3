@@ -8,7 +8,8 @@
 2) 정차벨이 눌리면 사람이 없어도 정류장 근처에서 잠시 멈추기  
 3) 정류장에 사람이 있으면 잠시 멈추기  
 4) 정류장에 사람이 없으면 멈추지 않기  
-*2~4번은 정차벨: 키보드의 입력, 정류장: 초록색 판, 사람: 빨간색 캔으로 대체하였으며 카메라 센서가 판단에 있어 주요한 역할을 함.  
+*2~4번은 정차벨: 키보드의 입력, 정류장: 초록색 판, 사람: 빨간색 캔으로 대체하였으며 카메라 센서가 판단에 있어 주요한 역할을 함.*  
+결과물과 관련된 영상과 보고서는 zip파일에 있다.
 
 =====================================================================
 
@@ -23,4 +24,5 @@ Implemented Functions:  <br>
 3) Stop for a moment when there is a person in the bus stop  <br>
 4) Do not stop when there is no person in the bus stop  <br>
 *#2~#4 bell is replaced as an input of keyboard, bus stop a green board, person a red can.  <br>
-  sensor of camera serves main role in the judgment  <br>
+  sensor of camera serves main role in the judgment*  <br>
+There is a video and report in zip file. 
